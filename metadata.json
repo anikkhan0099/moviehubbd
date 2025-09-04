@@ -1,0 +1,5 @@
+{
+  "name": "MovieHubBD - Movie Streaming Website",
+  "description": "A modern, fast, and fully responsive UI for the MovieHubBD movie, series, and anime streaming & downloading website, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
